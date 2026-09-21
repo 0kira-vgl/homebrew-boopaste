@@ -1,9 +1,9 @@
 class Boopaste < Formula
   desc "Paste clipboard images as a file path, in Ghostty and Terminal.app"
   homepage "https://github.com/0kira-vgl/boopaste"
-  url "https://github.com/0kira-vgl/boopaste/releases/download/v0.1.0/boopaste-0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "def7d87b6b49a38ab04dd608066810b23e0ce864d332f9e38a50e1a468ad6790"
-  version "0.1.0"
+  url "https://github.com/0kira-vgl/boopaste/releases/download/v0.1.1/boopaste-0.1.1-aarch64-apple-darwin.tar.gz"
+  sha256 "8079250a78979290f9eda814b4cda2230a56fb30b2af5b03eeb087a0b0d10207"
+  version "0.1.1"
   license "MIT"
 
   depends_on arch: :arm64
